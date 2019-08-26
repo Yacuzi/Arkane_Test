@@ -7354,3 +7354,28 @@ Script Stack (0 frames):
 [2019.08.26-18.08.26:845][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2019.08.26-18.08.27:243][452]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap2E825176432BE3F683E6FFA10B504B33.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap.umap'
 [2019.08.26-18.08.27:310][452]LogFileHelpers: Saving map 'Ark_ExampleMap' took 0.501
+[2019.08.26-18.12.36:247][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-18.12.36:341][458]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-18.12.36:358][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-18.12.36:361][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-18.12.36:361][458]PIE: New page: PIE session: Ark_ExampleMap (26 août 2019 22:12:36)
+[2019.08.26-18.12.36:361][458]LogPlayLevel: Creating play world package: /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap
+[2019.08.26-18.12.36:383][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021200s)
+[2019.08.26-18.12.36:383][458]LogAIModule: Creating AISystem for world Ark_ExampleMap
+[2019.08.26-18.12.36:384][458]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.08.26-18.12.36:384][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap to /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap (0.022154s)
+[2019.08.26-18.12.36:425][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.08.26-18.12.36:433][458]LogInit: XAudio2 using 'Casque pour téléphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.26-18.12.36:447][458]LogInit: FAudioDevice initialized.
+[2019.08.26-18.12.36:477][458]LogLoad: Game class is 'Ark_GameMode_C'
+[2019.08.26-18.12.36:490][458]LogWorld: Bringing World /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap up for play (max tick rate 0) at 2019.08.26-20.12.36
+[2019.08.26-18.12.36:493][458]LogWorld: Bringing up level for play took: 0.015254
+[2019.08.26-18.12.36:515][458]PIE: Play in editor start time for /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap 0,955
+[2019.08.26-18.12.36:515][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-18.12.37:516][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-18.12.37:524][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-18.12.37:682][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-18.12.37:682][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-18.12.37:770][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-18.12.37:776][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.08.26-18.12.37:994][498]LogPlayLevel: Display: Destroying online subsystem :Context_60
