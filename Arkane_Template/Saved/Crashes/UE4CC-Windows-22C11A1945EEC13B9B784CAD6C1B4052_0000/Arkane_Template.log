@@ -1,0 +1,862 @@
+﻿Log file open, 08/26/19 16:26:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Arkane_Template
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.436649
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1703) (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.26-14.26.37:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.26-14.26.37:046][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.26-14.26.37:046][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.26-14.26.37:046][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.26-14.26.37:046][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.26-14.26.37:046][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.26-14.26.37:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:046][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.26-14.26.37:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.26-14.26.37:056][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.26-14.26.37:056][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.26-14.26.37:094][  0]LogHAL: Display: Platform has ~ 64 GB [68618006528 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.26-14.26.37:094][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.26-14.26.37:094][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.26-14.26.37:094][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:094][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.26-14.26.37:094][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.26-14.26.37:094][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:094][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.26-14.26.37:094][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:094][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.26-14.26.37:094][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.26-14.26.37:095][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.26-14.26.37:096][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.26-14.26.37:097][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.26-14.26.37:107][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.26-14.26.37:107][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.26-14.26.37:107][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Config/Windows/Engine.ini]
+[2019.08.26-14.26.37:107][  0]LogInit: Computer: MRC-WKS-060269
+[2019.08.26-14.26.37:107][  0]LogInit: User: nnoel
+[2019.08.26-14.26.37:107][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.26-14.26.37:107][  0]LogInit: High frequency timer resolution =3.410077 MHz
+[2019.08.26-14.26.37:108][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.08.26-14.26.37:108][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.26-14.26.37:108][  0]LogMemory: Process Physical Memory: 99.31 MB used, 99.31 MB peak
+[2019.08.26-14.26.37:108][  0]LogMemory: Process Virtual Memory: 89.88 MB used, 89.88 MB peak
+[2019.08.26-14.26.37:108][  0]LogMemory: Physical Memory: 8891.30 MB used,  56547.93 MB free, 65439.23 MB total
+[2019.08.26-14.26.37:108][  0]LogMemory: Virtual Memory: 543.01 MB used,  134217184.00 MB free, 134217728.00 MB total
+[2019.08.26-14.26.37:334][  0]LogInit: Using OS detected language (fr-FR).
+[2019.08.26-14.26.37:334][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.08.26-14.26.37:335][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.08.26-14.26.37:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.08.26-14.26.37:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.08.26-14.26.37:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.08.26-14.26.37:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.08.26-14.26.37:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.08.26-14.26.37:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.08.26-14.26.37:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.08.26-14.26.37:380][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.26-14.26.37:499][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.26-14.26.37:499][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.26-14.26.39:962][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.26-14.26.39:962][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.26-14.26.40:083][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.08.26-14.26.40:083][  0]LogD3D11RHI:       6052/0/32719 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.26-14.26.40:087][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.26-14.26.40:087][  0]LogD3D11RHI:       0/0/32719 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.26-14.26.40:087][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.26-14.26.40:101][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.26-14.26.40:101][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.26-14.26.40:101][  0]LogWindows: EnumDisplayDevices:
+[2019.08.26-14.26.40:101][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.08.26-14.26.40:101][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.08.26-14.26.40:102][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.08.26-14.26.40:102][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.08.26-14.26.40:103][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.26-14.26.40:103][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.08.26-14.26.40:103][  0]LogD3D11RHI:   Driver Version: 391.24 (internal:23.21.13.9124, unified:391.24)
+[2019.08.26-14.26.40:103][  0]LogD3D11RHI:      Driver Date: 3-15-2018
+[2019.08.26-14.26.40:103][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.08.26-14.26.40:166][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.26-14.26.40:170][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.26-14.26.40:170][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.26-14.26.40:170][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.26-14.26.40:183][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.26-14.26.40:673][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.26-14.26.40:693][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.26-14.26.40:708][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.26-14.26.40:723][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.26-14.26.40:745][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.26-14.26.40:760][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.26-14.26.40:776][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.26-14.26.40:790][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.26-14.26.40:804][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.26-14.26.40:936][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.26-14.26.40:940][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.26-14.26.41:043][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.26-14.26.41:044][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.26-14.26.41:083][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.26-14.26.41:083][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.26-14.26.41:097][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.26-14.26.41:110][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.26-14.26.41:123][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.26-14.26.41:151][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.26-14.26.41:278][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.26-14.26.41:278][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.26-14.26.41:278][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.26-14.26.41:369][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.26-14.26.41:552][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Intermediate/Shaders/WorkingDirectory/14428/).
+[2019.08.26-14.26.41:552][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nnoel/AppData/Local/Temp/UnrealShaderWorkingDir/5EE27E4E4EDD571EF94150A56C4FEBAB/'.
+[2019.08.26-14.26.41:555][  0]LogXGEController: Cleaning working directory: C:/Users/nnoel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.26-14.26.41:555][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.26-14.26.41:555][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.26-14.26.41:555][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.26-14.26.44:005][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.26-14.26.44:151][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/nnoel/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.26-14.26.44:151][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nnoel/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.26-14.26.44:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.26-14.26.44:151][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.26-14.26.44:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.26-14.26.44:151][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.26-14.26.44:179][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.26-14.26.44:195][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.08.26-14.26.44:207][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nnoel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.26-14.26.44:207][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.26-14.26.44:207][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.26-14.26.44:250][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.26-14.26.44:253][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.26-14.26.44:271][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.26-14.26.44:791][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.08.26-14.26.45:228][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.26-14.26.45:705][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.26-14.26.45:705][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.26-14.26.45:705][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.26-14.26.45:705][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.26-14.26.45:705][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.26-14.26.45:770][  0]LogNetVersion: Arkane_Template 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 570607510)
+[2019.08.26-14.26.47:697][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.112964 seconds
+[2019.08.26-14.26.47:704][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.26-14.26.47:704][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.26-14.26.47:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.26-14.26.52:644][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.26-14.26.52:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.26-14.26.52:831][  0]SourceControl: Source control is disabled
+[2019.08.26-14.26.52:831][  0]SourceControl: Source control is disabled
+[2019.08.26-14.26.52:833][  0]SourceControl: Source control is disabled
+[2019.08.26-14.26.52:835][  0]SourceControl: Source control is disabled
+[2019.08.26-14.26.53:000][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.26-14.26.53:180][  0]LogOcInput: OculusInput pre-init called
+[2019.08.26-14.26.54:555][  0]LogEngine: Initializing Engine...
+[2019.08.26-14.26.54:557][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.26-14.26.54:560][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.26-14.26.55:424][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.26-14.26.55:456][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.26-14.26.55:488][  0]LogInit: XAudio2 using 'Casque pour téléphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.26-14.26.55:521][  0]LogInit: FAudioDevice initialized.
+[2019.08.26-14.26.55:522][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.26-14.26.55:627][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/nnoel/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.26-14.26.55:642][  0]LogInit: Texture streaming: Enabled
+[2019.08.26-14.26.55:679][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.26-14.26.55:722][  0]LogInit: Transaction tracking system initialized
+[2019.08.26-14.26.55:790][  0]BlueprintLog: New page: Editor Load
+[2019.08.26-14.26.55:968][  0]LocalizationService: Localization service is disabled
+[2019.08.26-14.26.56:893][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.26-14.26.56:893][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.26-14.26.57:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/' took 0.03s
+[2019.08.26-14.26.57:616][  0]SourceControl: Source control is disabled
+[2019.08.26-14.26.57:616][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.26-14.26.57:616][  0]LightingResults: New page: Lighting Build
+[2019.08.26-14.26.57:622][  0]MapCheck: New page: Map Check
+[2019.08.26-14.26.57:622][  0]LightingResults: New page: Lighting Build
+[2019.08.26-14.26.57:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.08.26-14.26.57:892][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.08.26-14.26.57:912][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0025,70] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 77 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.08.26-14.26.59:450][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.08.26-14.26.59:458][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.08.26-14.27.00:211][  0]LogAIModule: Creating AISystem for world Ark_ExampleMap
+[2019.08.26-14.27.00:262][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:262][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_0 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_0 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:263][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_1 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_1 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:263][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_2 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_2 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:264][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:264][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_0 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_0 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:264][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_1 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_1 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:264][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_2 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_2 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:264][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_3 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_3 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:265][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_4 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_4 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:265][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_5 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_5 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:265][  0]LogScript: Warning: Attempted to access NODE_AddArrowComponent-2_6 via property CallFunc_Array_Get_Item, but NODE_AddArrowComponent-2_6 is pending kill
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute_5
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:267][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:268][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Ark_PatrolRoute_C /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_PatrolRoute3_2
+	Function /Game/ArkaneContent/Blueprints/AI/CommonBlueprints/Ark_PatrolRoute.Ark_PatrolRoute_C:LinkWaypoints:0387
+[2019.08.26-14.27.00:292][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.26-14.27.00:348][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.08.26-14.27.00:348][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.26-14.27.00:348][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,221ms to complete.
+[2019.08.26-14.27.00:348][  0]LogFileHelpers: Loading map 'Ark_ExampleMap' took 2.732
+[2019.08.26-14.27.00:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.27.00:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.27.00:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.27.00:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.27.00:549][  0]LogCollectionManager: Loaded 0 collections in 0.002305 seconds
+[2019.08.26-14.27.00:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Collections/' took 0.01s
+[2019.08.26-14.27.00:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/Developers/nnoel/Collections/' took 0.00s
+[2019.08.26-14.27.00:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/Collections/' took 0.00s
+[2019.08.26-14.27.00:566][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.26-14.27.00:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2732 classes and 659 folders.
+[2019.08.26-14.27.00:586][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.26-14.27.00:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.00:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-14.27.01:131][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.26-14.27.01:143][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.26-14.27.01:165][  0]LogSlate: Took 0.005102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.26-14.27.01:171][  0]LogSlate: Took 0.004441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.26-14.27.01:181][  0]LogSlate: Took 0.004881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.26-14.27.01:291][  0]LogRenderer: Reallocating scene render targets to support 1104x496 Format 10 NumSamples 1 (Frame:1).
+[2019.08.26-14.27.01:473][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.26-14.27.01:473][  0]LogLoad: (Engine Initialization) Total time: 29.26 seconds
+[2019.08.26-14.27.01:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.26-14.27.01:529][  0]LogAssetRegistry: Asset discovery search completed in 16.7610 seconds
+[2019.08.26-14.27.01:533][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.26-14.27.01:533][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.08.26-14.27.01:534][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.26-14.27.01:557][  0]LogSlate: Took 0.006213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.26-14.27.02:522][ 94]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.26-14.27.08:981][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.27.09:080][874]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ArkaneContent/Blueprints/Player/Ark_Player.Ark_Player
+[2019.08.26-14.27.09:614][874]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.08.26-14.27.11:175][874]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ArkaneContent/Blueprints/AI/Ark_Enemy_Guard.Ark_Enemy_Guard
+[2019.08.26-14.27.11:678][874]LogLinker: Warning: Can't resolve asset name
+[2019.08.26-14.27.11:687][874]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/ArkaneContent/Blueprints/AI/Behaviors/Enemy_Guard/Ark_Enemy_Guard_BT.Ark_Enemy_Guard_BT
+[2019.08.26-14.27.11:889][874]LogSlate: Took 0.010821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.26-14.27.12:140][875]LogSlate: Took 0.005353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.26-14.27.15:115][150]LogSlate: Window 'Ark_Enemy_Guard_BB' being destroyed
+[2019.08.26-14.29.43:866][268]LogRenderer: Reallocating scene render targets to support 1104x500 Format 10 NumSamples 1 (Frame:6265).
+[2019.08.26-14.29.43:923][268]LogRenderer: Reallocating scene render targets to support 1104x528 Format 10 NumSamples 1 (Frame:6267).
+[2019.08.26-14.29.44:034][269]LogRenderer: Reallocating scene render targets to support 1104x628 Format 10 NumSamples 1 (Frame:6271).
+[2019.08.26-14.29.44:179][270]LogRenderer: Reallocating scene render targets to support 1104x632 Format 10 NumSamples 1 (Frame:6275).
+[2019.08.26-14.29.44:598][297]LogRenderer: Reallocating scene render targets to support 1104x636 Format 10 NumSamples 1 (Frame:6281).
+[2019.08.26-14.29.44:766][299]LogRenderer: Reallocating scene render targets to support 1104x640 Format 10 NumSamples 1 (Frame:6285).
+[2019.08.26-14.29.44:892][299]LogRenderer: Reallocating scene render targets to support 1104x648 Format 10 NumSamples 1 (Frame:6287).
+[2019.08.26-14.30.16:800][822]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.30.16:827][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.30.16:830][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.30.16:830][822]PIE: New page: PIE session: Ark_ExampleMap (26 août 2019 18:30:16)
+[2019.08.26-14.30.16:842][822]LogPlayLevel: Creating play world package: /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap
+[2019.08.26-14.30.16:868][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025774s)
+[2019.08.26-14.30.16:868][822]LogAIModule: Creating AISystem for world Ark_ExampleMap
+[2019.08.26-14.30.16:868][822]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2019.08.26-14.30.16:869][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap to /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap (0.026739s)
+[2019.08.26-14.30.16:915][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.08.26-14.30.16:924][822]LogInit: XAudio2 using 'Casque pour téléphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.26-14.30.16:934][822]LogInit: FAudioDevice initialized.
+[2019.08.26-14.30.16:975][822]LogLoad: Game class is 'Ark_GameMode_C'
+[2019.08.26-14.30.16:979][822]LogWorld: Bringing World /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap up for play (max tick rate 0) at 2019.08.26-16.30.16
+[2019.08.26-14.30.16:980][822]LogWorld: Bringing up level for play took: 0.004390
+[2019.08.26-14.30.16:996][822]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.26-14.30.16:999][822]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.26-14.30.17:000][822]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.26-14.30.17:007][822]PIE: Play in editor start time for /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap -0,524
+[2019.08.26-14.30.17:007][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.30.17:578][824]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 224 !
+[2019.08.26-14.30.27:120][908]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 224 !
+[2019.08.26-14.30.29:263][162]Cmd: EnableGDT
+[2019.08.26-14.30.31:462][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.30.31:464][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.30.31:525][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.30.31:525][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.30.31:604][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.30.31:636][423]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2019.08.26-14.30.31:665][424]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.26-14.30.36:030][899]LogEditorViewport: Clicking on Actor (LMB): Ark_Player_C (FirstPersonCharacter)
+[2019.08.26-14.30.38:287][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.30.58:197][457]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/ArkaneContent/Blueprints/Player/Secondary_Items.Secondary_Items
+[2019.08.26-14.32.03:808][293]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Secondary_Items2543AF8D4F43EA945A42B3B18017281C.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Blueprints/Player/Secondary_Items.uasset'
+[2019.08.26-14.32.17:674][802]BlueprintLog: New page: Compile Ark_Player
+[2019.08.26-14.32.18:174][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.08.26-14.34.45:021][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.08.26-14.34.45:372][761]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap0F6FBE5B45B0D4E47615A38111AEA6DE.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap.umap'
+[2019.08.26-14.34.47:032][761]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap_BuiltDataDBF6F46C4324AFF653E1C784D74F9242.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap_BuiltData.uasset'
+[2019.08.26-14.34.48:414][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.08.26-14.34.48:725][897]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap22FBB17448200DBB01093EA5B48E9380.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap.umap'
+[2019.08.26-14.34.49:716][897]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap_BuiltDataB385F45E4476E5B868F49BA6658BEB1C.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap_BuiltData.uasset'
+[2019.08.26-14.34.51:312][992]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_Player2107065644017E0AFEDC118E3E85025F.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Blueprints/Player/Ark_Player.uasset'
+[2019.08.26-14.34.57:858][715]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.34.57:909][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.34.57:911][715]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.26-14.34.57:912][715]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.08.26-14.34.57:924][715]LogPlayLevel: [PlayLevel] Compiling Ark_UI before play...
+[2019.08.26-14.34.58:004][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.08.26-14.34.58:004][715]LogPlayLevel: PlayLevel: Blueprint regeneration took 92 ms (2 blueprints)
+[2019.08.26-14.34.58:004][715]PIE: New page: PIE session: Ark_ExampleMap (26 août 2019 18:34:58)
+[2019.08.26-14.34.58:004][715]LogPlayLevel: Creating play world package: /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap
+[2019.08.26-14.34.58:027][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022119s)
+[2019.08.26-14.34.58:027][715]LogAIModule: Creating AISystem for world Ark_ExampleMap
+[2019.08.26-14.34.58:027][715]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.08.26-14.34.58:027][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap to /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap (0.023370s)
+[2019.08.26-14.34.58:064][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.08.26-14.34.58:072][715]LogInit: XAudio2 using 'Casque pour téléphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.26-14.34.58:082][715]LogInit: FAudioDevice initialized.
+[2019.08.26-14.34.58:113][715]LogLoad: Game class is 'Ark_GameMode_C'
+[2019.08.26-14.34.58:120][715]LogWorld: Bringing World /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap up for play (max tick rate 0) at 2019.08.26-16.34.58
+[2019.08.26-14.34.58:122][715]LogWorld: Bringing up level for play took: 0.008393
+[2019.08.26-14.34.58:141][715]PIE: Play in editor start time for /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap 0,609
+[2019.08.26-14.34.58:141][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.34.58:236][716]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 224 !
+[2019.08.26-14.35.02:628][229]LogBlueprintUserMessages: [Ark_Enemy_Guard_2] Ark_Enemy_Guard_2 Combat
+[2019.08.26-14.35.02:761][245]LogBlueprintUserMessages: [Ark_Enemy_Guard2_6] Ark_Enemy_Guard2_6 Combat
+[2019.08.26-14.35.06:707][690]Cmd: EnableGDT
+[2019.08.26-14.35.07:396][766]Cmd: EnableGDT
+[2019.08.26-14.35.07:617][787]Cmd: EnableGDT
+[2019.08.26-14.35.07:784][804]Cmd: EnableGDT
+[2019.08.26-14.35.07:942][823]Cmd: EnableGDT
+[2019.08.26-14.35.08:245][857]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 224 !
+[2019.08.26-14.35.08:246][857]Cmd: EnableGDT
+[2019.08.26-14.35.08:444][878]Cmd: EnableGDT
+[2019.08.26-14.35.08:626][898]Cmd: EnableGDT
+[2019.08.26-14.35.10:582][117]LogNet: Browse: /Game/ArkaneContent/Maps/Ark_ExampleMap
+[2019.08.26-14.35.10:582][117]LogLoad: LoadMap: /Game/ArkaneContent/Maps/Ark_ExampleMap
+[2019.08.26-14.35.10:653][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.08.26-14.35.10:654][117]LogPlayLevel: Creating play world package: /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap
+[2019.08.26-14.35.10:682][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028649s)
+[2019.08.26-14.35.10:683][117]LogAIModule: Creating AISystem for world Ark_ExampleMap
+[2019.08.26-14.35.10:684][117]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2019.08.26-14.35.10:684][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap to /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap (0.029954s)
+[2019.08.26-14.35.10:684][117]LogLoad: Game class is 'Ark_GameMode_C'
+[2019.08.26-14.35.10:699][117]LogWorld: Bringing World /Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap.Ark_ExampleMap up for play (max tick rate 0) at 2019.08.26-16.35.10
+[2019.08.26-14.35.10:700][117]LogWorld: Bringing up level for play took: 0.015124
+[2019.08.26-14.35.10:704][117]LogLoad: Took 0.121440 seconds to LoadMap(/Game/ArkaneContent/Maps/UEDPIE_0_Ark_ExampleMap)
+[2019.08.26-14.35.11:426][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.35.11:430][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.35.11:458][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.35.11:458][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap' with GeneratedClass '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap_C' with ClassGeneratedBy '/Game/ArkaneContent/Maps/Ark_ExampleMap.Ark_ExampleMap:PersistentLevel.Ark_ExampleMap'
+[2019.08.26-14.35.11:496][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.35.11:502][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.26-14.35.11:529][201]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.26-14.45.02:253][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.08.26-14.45.02:617][157]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap_Auto10BEE997146AEB50534BEE58D00FAAF4E.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Autosaves/Game/ArkaneContent/Maps/Ark_ExampleMap_Auto1.umap'
+[2019.08.26-14.45.02:624][157]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArkaneContent/Maps/Ark_ExampleMap' took 0.419
+[2019.08.26-14.45.02:624][157]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.419
+[2019.08.26-14.45.02:626][157]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArkaneContent/Blueprints/UI/Ark_UI] ([1] browsable assets)...
+[2019.08.26-14.45.02:626][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArkaneContent/Blueprints/UI/Ark_UI]
+[2019.08.26-14.45.02:681][157]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_UI_Auto1992352F043D3B0289DD7ACB61D7ED031.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Autosaves/Game/ArkaneContent/Blueprints/UI/Ark_UI_Auto1.uasset'
+[2019.08.26-14.45.02:684][157]LogFileHelpers: Auto-saving content packages took 0.059
+[2019.08.26-15.04.27:101][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-15.05.14:002][835]LogEditorTransaction: Undo Move Nodes
+[2019.08.26-15.05.21:479][411]LogEditorTransaction: Undo Move Nodes
+[2019.08.26-15.05.21:856][412]LogEditorTransaction: Undo Move Nodes
+[2019.08.26-15.05.22:184][413]LogEditorTransaction: Undo Move Nodes
+[2019.08.26-15.05.23:231][453]LogEditorTransaction: Undo Move Nodes
+[2019.08.26-15.05.24:021][473]LogEditorTransaction: Undo Move Nodes
+[2019.08.26-15.09.36:812][450]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.08.26-15.09.37:253][450]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap_Auto2A61B115744076EF0D1091683861379A2.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Autosaves/Game/ArkaneContent/Maps/Ark_ExampleMap_Auto2.umap'
+[2019.08.26-15.09.37:266][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArkaneContent/Maps/Ark_ExampleMap' took 0.534
+[2019.08.26-15.09.37:266][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.534
+[2019.08.26-15.09.37:267][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArkaneContent/Blueprints/AI/Ark_Enemy_Guard] ([1] browsable assets)...
+[2019.08.26-15.09.37:305][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ArkaneContent/Blueprints/AI/Ark_Enemy_Guard.Ark_Enemy_Guard]
+[2019.08.26-15.09.37:305][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArkaneContent/Blueprints/AI/Ark_Enemy_Guard]
+[2019.08.26-15.09.37:402][450]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_Enemy_Guard_Auto28529C1184F1063ADFFD46A862A1B0662.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Autosaves/Game/ArkaneContent/Blueprints/AI/Ark_Enemy_Guard_Auto2.uasset'
+[2019.08.26-15.09.37:406][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArkaneContent/Blueprints/Player/Ark_Player] ([1] browsable assets)...
+[2019.08.26-15.09.37:424][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ArkaneContent/Blueprints/Player/Ark_Player.Ark_Player]
+[2019.08.26-15.09.37:424][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArkaneContent/Blueprints/Player/Ark_Player]
+[2019.08.26-15.09.37:800][450]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_Player_Auto24CA1F5BD495FBE4E318DE9AAE7F2AB73.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Autosaves/Game/ArkaneContent/Blueprints/Player/Ark_Player_Auto2.uasset'
+[2019.08.26-15.09.37:805][450]LogFileHelpers: Auto-saving content packages took 0.539
+[2019.08.26-15.11.15:021][543]LogSlate: Took 0.011414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.26-15.12.06:731][240]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_Player941EB77642D97868814B4AA10786939F.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Blueprints/Player/Ark_Player.uasset'
+[2019.08.26-15.12.07:151][284]BlueprintLog: New page: Compile Ark_Player
+[2019.08.26-15.12.07:555][284]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.08.26-15.12.53:605][302]LogEditorTransaction: Undo Delete current selection
+[2019.08.26-15.15.25:381][260]LogEditorTransaction: Undo Add Node
+[2019.08.26-15.22.55:895][443]BlueprintLog: New page: Compile Ark_Player
+[2019.08.26-15.22.56:226][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.08.26-15.22.57:039][496]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_PlayerA2298D0B4D9066678DC320A1E4EE79F6.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Blueprints/Player/Ark_Player.uasset'
+[2019.08.26-15.22.59:177][720]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_Enemy_GuardDB9F7F5D42918E4595F028B8D7B93EF9.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Blueprints/AI/Ark_Enemy_Guard.uasset'
+[2019.08.26-15.23.01:235][911]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.08.26-15.23.01:724][911]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap9C07966047858E04DBD32497A531A411.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap.umap'
+[2019.08.26-15.23.02:754][911]LogSavePackage: Moving '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Saved/Ark_ExampleMap_BuiltData80BA613147CBCB162D9043851E187E8D.tmp' to '../../../../../../Users/nnoel/Documents/Arkane_Test/Arkane_Template/Content/ArkaneContent/Maps/Ark_ExampleMap_BuiltData.uasset'
+[2019.08.26-15.23.24:798][165]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2019.08.26-15.23.41:530][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-15.24.55:650][657]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.26-15.24.55:677][657]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.26-15.24.56:102][657]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.425 s
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: 
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: 
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: Stack: 
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa13681639 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa126583b1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1c9f4e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1ca16366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1ca02f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1ca5ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1ca9ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1ca3929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa23169188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa40e371ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa40e6743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa1cfb5694 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa40e01e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa40e68dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa40e5f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa6bb0b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa6bafef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa6bb0d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa6bafc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa7ac8bc50 USER32.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa7ac8b5cf USER32.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa6bb0e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ff622dd5d3e UE4Editor.exe!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ff622de554c UE4Editor.exe!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ff622de55ca UE4Editor.exe!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ff622df316c UE4Editor.exe!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ff622df5b8e UE4Editor.exe!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa7ade2d34 KERNEL32.DLL!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: [Callstack] 0x00007ffa7ced0c51 ntdll.dll!UnknownFunction []
+[2019.08.26-15.24.56:102][657]LogOutputDevice: Error: 
+[2019.08.26-15.24.56:110][657]LogStats:                SubmitErrorReport -  0.000 s
